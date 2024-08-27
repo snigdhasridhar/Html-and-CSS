@@ -1,1 +1,22 @@
-
+.box{
+height: 100px;
+width: 50px;
+background-color: blueviolet;}
+.red{
+    height: 100px;
+    width: 50px;
+    background-color:red;
+}
+#blue_box{
+    height: 100px;
+    width: 50px;
+    background-color:aqua;
+}
+.space{
+    display: flex;
+    justify-content:start;
+    align-items:end;
+    height: 100vh;
+}
+   
+    
